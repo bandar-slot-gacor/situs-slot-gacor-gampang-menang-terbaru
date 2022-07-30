@@ -1,0 +1,23 @@
+{
+  "name": "situs-slot-gacor-gampang-menang-terbaru",
+  "main": "./lib/situs-slot-gacor-gampang-menang-terbaru",
+  "version": "0.0.0",
+  "description": "Amintoto merupakan bandar situs slot gacor gampang menang dengan konsep terbaru dan terbaik nomor 1 di Indonesia.",
+  "keywords": [
+    "slot gacor",
+    "slot gacor gampang menang",
+    "slot gacor hari ini",
+    "bandar slot gacor",
+    "situs slot gacor"
+  ],
+  "activationCommands": {
+    "atom-workspace": "situs-slot-gacor-gampang-menang-terbaru:toggle"
+  },
+  "repository": "https://github.com/bandar-slot-gacor/situs-slot-gacor-gampang-menang-terbaru",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
